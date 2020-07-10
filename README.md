@@ -17,6 +17,9 @@ When you’re ready to deploy to production, create a minified bundle with `npm 
 <img src='https://drive.google.com/file/d/1ct4ROhuNlsqiNWaOQZhwFSU8RQZy2ao1/preview' width='600' alt='JusChat'>
 </p>
 
+## Portfolio
+[list of my projects](https://portfolio-wahyujus.firebaseapp.com/)
+
 ## Instagram
 
 Follow me on insta [@wahyujus](https://www.instagram.com/wahyujus/).
